@@ -2,4 +2,4 @@
 title: "Welcome to my blog"
 ---
 
-This page is part of the pages with jekyll learning tutorial 
+This page is part of the jekyll learning tutorial 
