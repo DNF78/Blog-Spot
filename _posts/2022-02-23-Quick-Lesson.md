@@ -22,3 +22,7 @@ Link	[title](https://www.example.com)
 Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote
+
+These were taken from : [Cheatsheet](https://www.markdownguide.org/cheat-sheet)[^2]
+
+[^2]: www.markdownguide.org/cheat-sheet
