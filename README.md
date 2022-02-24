@@ -1,4 +1,4 @@
-https://dnf78.github.io/github-pages-with-jekyll/ 
+https://dnf78.github.io/Blog-Spot/ 
 
 Quick link to the blog
 
