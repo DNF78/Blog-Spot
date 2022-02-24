@@ -1,6 +1,6 @@
 https://dnf78.github.io/Blog-Spot/ 
 
-Quick link to the blog
+Quick link to the blog, this was part of the tutorial described in README below which I have kept here for context)
 
 ___
 
