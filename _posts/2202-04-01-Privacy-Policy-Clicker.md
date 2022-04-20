@@ -1,5 +1,5 @@
 ---
-title: "Privacy Policy"
+title: "Privacy Policy Clicker"
 date: 2022-04-01
 ---
 Privacy Policy
