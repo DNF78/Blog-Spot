@@ -1,8 +1,8 @@
 ---
-title: "Privacy Policy Animal Sound Board - Vehicles"
+title: "Privacy Policy Vehicles Sound Board"
 date: 2024-08-29
 ---
-Privacy Policy - Animal Sound Board - Vehicles
+Privacy Policy - Vehicles Sound Board 
 
 DNF78 built the Animal Sound Board app as a Free app. This SERVICE is provided by DNF78 at no cost and is intended for use as is.
 
